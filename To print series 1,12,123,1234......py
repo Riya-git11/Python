@@ -1,5 +1,5 @@
+n = int(input("Enter number:"))
 i=1
-n=4
 while(i<=n):
     j=1
     while(j<=i):
